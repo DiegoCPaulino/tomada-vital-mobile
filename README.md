@@ -4,7 +4,7 @@ Aplicativo Flutter da **Tomada Vital**, solução da Global Solution 2026/2 (Cit
 
 Quando a energia cai, quem depende de um aparelho ligado na tomada fica só com a bateria dele. A Tomada Vital é um dispositivo na tomada que percebe a queda, lê a bateria e avisa a central pela rede celular. A central monta uma fila em que **quem tem menos tempo de bateria é atendido primeiro**. Este app é o lado da **família**: mostra se a casa está sem energia, quantos minutos de bateria restam, a posição na fila e o que a central já fez.
 
-> **Vídeo de demonstração:** 
+> **Vídeo de demonstração:** [https://youtu.be/cv3VCcZC_rg]
 
 ---
 
